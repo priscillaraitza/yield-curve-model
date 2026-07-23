@@ -1,4 +1,4 @@
-# Yield Curve Model — Does Inversion Predict Recessions?
+# Yield Curve Model - Does Inversion Predict Recessions?
 
 Independent research project fitting the Nelson-Siegel model to US Treasury 
 yields (1990–2026) to test whether yield curve inversions have historically 
