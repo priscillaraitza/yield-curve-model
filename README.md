@@ -17,4 +17,4 @@ though that recession was pandemic-driven rather than monetary-policy-driven.
 The 2022–2024 inversion (25 months, the longest on record) has not been 
 followed by a recession (an ongoing outlier relative to the historical pattern.)
 
-[Full write-up with methodology and limitations](writeup.md)
+[Full write-up with methodology and limitations] (in progress)
