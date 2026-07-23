@@ -19,6 +19,6 @@ followed by a recession (an ongoing outlier relative to the historical pattern.)
 
 ![Chart](Yield_Curve_Chart.png)
 
-Code: (yield_curve_analysis.py)
+[Code](yield_curve_analysis.py)
 
 [Full write-up with methodology and limitations] (in progress)
